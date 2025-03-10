@@ -1,5 +1,7 @@
 # patientManagementSystem
-## This is a personal project I used to learn how to implement a Microservices architecture for a Java/Spring Boot application.
+
+# This is a personal project I used to learn how to implement a Microservices architecture for a Java/Spring Boot application.
+
 ### Environment Variables
 JAVA_TOOL_OPTIONS=-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005;
 SPRING_DATASOURCE_PASSWORD=password;
